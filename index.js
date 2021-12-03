@@ -1,8 +1,8 @@
 const { type } = require("os");
 
 const Discord = require("discord.js"),
-  nsfwBot = require("./handler/Client.js"),
-  client = new nsfwBot(),
+  robotDuCul = require("./handler/Client.js"),
+  client = new robotDuCul(),
   config = require('./config.json');
 
   client.on('ready', () => {
