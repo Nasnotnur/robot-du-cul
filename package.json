@@ -1,0 +1,19 @@
+{
+  "name": "robot-du-cul",
+  "version": "6.6.6",
+  "description": "NSFW Robot Bisous par un barbu à poils roux et chauve enfin presque mais pas trop enfaite c'est tout à fait fait claire même que que que je suis <//",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord-buttons": "^4.0.0",
+    "discord.js": "^12.5.3",
+    "os": "^0.1.2",
+    "superagent": "^6.1.0"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "license": "OSEF"
+}

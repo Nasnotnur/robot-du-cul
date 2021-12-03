@@ -1,0 +1,12 @@
+{
+  "prefix": "Ton Prefix",
+  "token": "Ton Bot Token",
+  "owners": ["Ton ID"],
+  "footer": "robot-du-cul • (Ton Server)",
+
+  "msg": {
+    "nsfwWarn": "à utiliser dans un channel NSFW",
+    "loading": "Patiente un peu Jackie & Mi....",
+    "imageNotLoading": "Clic ici si l'image n'a pas chargé :3"
+  }
+}
